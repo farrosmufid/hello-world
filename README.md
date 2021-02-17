@@ -103,4 +103,5 @@ Example: ~~crossed~~
 Here's a simple footnote<sup>1</sup>. Here's another footnote<sup>2</sup>
 
 1: This is the first footnote
+
 2: This is the second footnote
