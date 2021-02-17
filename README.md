@@ -72,3 +72,28 @@ def factorial(n):
 > Photograph by David Armstrong, MyShot
 >
 > A rainbow is a multicolored arc made by light striking water droplets. The most familiar type rainbow, including this one in southern Chile, is produced when sunlight strikes raindrops in front of a viewer at a precise angle. The colors on a primary rainbow are always in order of their wavelength, from longest to shortest: red, orange, yellow, green, blue, and violet.
+
+## Task Lists
+
+- [x] @mentions, #refs, [links](images/rainbow_natgeo.jpg), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+If you include a task list in the first comment of an issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
+
+## Tables
+
+You can create tables by assembling a list of words and dividing them with hypens `-` (for the first row), and then separating each column with a pipe `|`:
+
+First Header | Second Header
+-------------|--------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+## Strikethrough
+
+Any word wrapped with two tildes like `~~this~~` will appear crossed out.
+
+Example: ~~crossed~~
