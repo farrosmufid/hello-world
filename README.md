@@ -9,4 +9,4 @@ I found this equation useful:
 
 $ 2 \pi r $
 
-A song about rainbows in the key of D major.
+A song about rainbows in the key of G major.
