@@ -22,5 +22,30 @@ You can use one `#` all the way up to `######` six for different heading sizes.
 If you'd like to quote someone, use the > character before the line:
 
 > Coffee. The finest organic suspension ever devised... I beat the borg with it.
-> 
+>
 > \- Captain Janeway
+
+## Code
+
+There are many different ways to style code with Github's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`. If you've got a longer block of code, you can indent with four spaces:
+
+    if (isAwesome) {
+      return true
+    }
+
+Github also supports something called code fencing, which allows for multiple lines without indentation:
+
+```
+if (isAwesome) {
+  return true
+}
+```
+
+And if you'd like to use syntax highlighting, include the language:
+
+```python
+def factorial(n):
+  if n < 1:
+    return 1
+  return n + factorial(n - 1)
+```
