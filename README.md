@@ -9,4 +9,7 @@ I found this equation useful:
 
 $ 2 \pi r $
 
+It's very easy to make some words **bold** and other words *italic* with markdown. You can even
+[link to google](http://google.com)
+
 A song about rainbows in the key of G major.
