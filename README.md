@@ -14,3 +14,13 @@ It's very easy to make some words **bold** and other words *italic* with markdow
 
 A song about rainbows in the key of G major. <br>
 <img src="https://c.tadst.com/gfx/1200x675/rainbow.jpg?1" width="500" height=auto>
+
+## This is a second-tier heading
+
+You can use one `#` all the way up to `######` six for different heading sizes.
+
+If you'd like to quote someone, use the > character before the line:
+
+> Coffee. The finest organic suspension ever devised... I beat the borg with it.
+> 
+> \- Captain Janeway
