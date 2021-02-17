@@ -49,3 +49,26 @@ def factorial(n):
     return 1
   return n + factorial(n - 1)
 ```
+
+## Lists
+
+### Unordered
+* Item 1
+* Item 2
+    * Item 2a
+    * Item 2b
+
+### Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+    1. Item 3a
+    1. Item 3b
+
+## Rainbow River
+
+<img src="images/rainbow_natgeo.jpg" width="500" height=auto>
+
+> Photograph by David Armstrong, MyShot
+>
+> A rainbow is a multicolored arc made by light striking water droplets. The most familiar type rainbow, including this one in southern Chile, is produced when sunlight strikes raindrops in front of a viewer at a precise angle. The colors on a primary rainbow are always in order of their wavelength, from longest to shortest: red, orange, yellow, green, blue, and violet.
